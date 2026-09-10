@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: fluentci
+  binname: fluentci
+  visiblename: fluentci
+  version: 0.16.5
+  origversion: 0.16.5-1
+  status: unique
+  summary: Set up and run your CI locally or in any CI Provider in a consistent way
+  maintainers:
+    - tsirysndr@aur
+  licenses:
+    - MPL-2.0

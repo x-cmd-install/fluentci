@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
+Set up and run your CI locally or in any CI Provider in a consistent way
 
 [![x-cmd/install — fluentci Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fluentci.svg)](https://x-cmd.com/install/fluentci)
 
@@ -14,15 +14,15 @@ x install fluentci
 
 ## Code insight
 
-Total: **8,550** lines of code across **104** files in the top 5 languages.
+Total: **128,870** lines of code across **674** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 8,052 | 107 | 755 | 73 |
-| Toml | 315 | 0 | 37 | 26 |
-| Sh | 93 | 14 | 31 | 1 |
-| Json | 45 | 0 | 0 | 3 |
-| Nix | 40 | 0 | 6 | 1 |
+| Rust | 115,755 | 8,046 | 14,355 | 588 |
+| Tsx | 4,919 | 4 | 76 | 17 |
+| JavaScript | 1,970 | 83 | 75 | 23 |
+| TypeScript | 1,656 | 10 | 56 | 24 |
+| Gleam | 1,462 | 13 | 222 | 22 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **8,550** lines of code across **104** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.16.8` (2025-07-11)
-- **Last commit**: 2025-09-08
+- **Last commit**: 2026-11-05
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 124 · **Forks**: 5 · **Open issues**: 4 · **Contributors**: 2
+- **Stars**: 125 · **Forks**: 6 · **Open issues**: 4 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 66 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 525
+- **Releases**: 73 · **Merged PRs**: 68 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 582
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 3 | 0 | 1 | 2 | 0 | 23 |
+| 30d | 2026-10-06 | 0 | 2 | 0 | 0 | 0 | 55 |
+| last60d | 2026-09-06 | 0 | 2 | 0 | 0 | 0 | 55 |
+| 90d | 2026-08-07 | 0 | 2 | 0 | 0 | 0 | 55 |
+| last180d | 2026-05-09 | 0 | 2 | 0 | 0 | 0 | 55 |
+| 360d | 2025-11-10 | 0 | 2 | 0 | 0 | 0 | 55 |
+| last720d | 2024-11-15 | 3 | 2 | 0 | 2 | 0 | 80 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for fluentci lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:14:17Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:42:33Z._

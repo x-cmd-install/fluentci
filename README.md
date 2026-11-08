@@ -14,15 +14,15 @@ x install fluentci
 
 ## Code insight
 
-Total: **159,471** lines of code across **780** files in the top 5 languages.
+Total: **202,920** lines of code across **961** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 126,460 | 8,085 | 14,708 | 621 |
-| Tsx | 8,657 | 9 | 141 | 72 |
-| JavaScript | 5,379 | 175 | 202 | 47 |
-| Json | 5,045 | 0 | 2 | 38 |
-| Nix | 4,298 | 6 | 3 | 2 |
+| Rust | 151,537 | 8,943 | 17,046 | 773 |
+| Json | 19,993 | 0 | 2 | 51 |
+| Tsx | 8,962 | 9 | 142 | 76 |
+| JavaScript | 6,491 | 187 | 231 | 59 |
+| Nix | 4,966 | 6 | 3 | 2 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **159,471** lines of code across **780** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.17.1` (2026-11-06)
-- **Last commit**: 2026-11-07
+- **Latest**: `v0.17.2` (2026-11-07)
+- **Last commit**: 2026-11-08
 - **Assets in release**: 30
 
 ## Popularity
@@ -42,53 +42,53 @@ Total: **159,471** lines of code across **780** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 70 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 657
+- **Releases**: 76 · **Merged PRs**: 70 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 4 | 0 | 0 | 0 | 127 |
-| last60d | 2026-09-08 | 2 | 4 | 0 | 0 | 0 | 127 |
-| 90d | 2026-08-09 | 2 | 4 | 0 | 0 | 0 | 127 |
-| last180d | 2026-05-11 | 2 | 4 | 0 | 0 | 0 | 127 |
-| 360d | 2025-11-12 | 2 | 4 | 0 | 0 | 0 | 127 |
-| last720d | 2024-11-17 | 5 | 4 | 0 | 2 | 0 | 155 |
+| 30d | 2026-10-09 | 3 | 4 | 0 | 0 | 0 | 146 |
+| last60d | 2026-09-09 | 3 | 4 | 0 | 0 | 0 | 146 |
+| 90d | 2026-08-10 | 3 | 4 | 0 | 0 | 0 | 146 |
+| last180d | 2026-05-12 | 3 | 4 | 0 | 0 | 0 | 146 |
+| 360d | 2025-11-13 | 3 | 4 | 0 | 0 | 0 | 146 |
+| last720d | 2024-11-18 | 6 | 4 | 0 | 2 | 0 | 174 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fluentci-0.17.1-1.aarch64.rpm](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci-0.17.1-1.aarch64.rpm) | 24.3 MiB | `runtime/rpm/aarch64` |
-| [fluentci-0.17.1-1.aarch64.rpm.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci-0.17.1-1.aarch64.rpm.sha256) | 96 B | `other` |
-| [fluentci-0.17.1-1.x86_64.rpm](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci-0.17.1-1.x86_64.rpm) | 26.3 MiB | `runtime/rpm/x86_64` |
-| [fluentci-0.17.1-1.x86_64.rpm.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci-0.17.1-1.x86_64.rpm.sha256) | 95 B | `other` |
-| [FluentCI-Studio_v0.17.1_aarch64-apple-darwin.app.zip](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_aarch64-apple-darwin.app.zip) | 25.7 MiB | `native/darwin/arm64` |
-| [FluentCI-Studio_v0.17.1_aarch64-apple-darwin.app.zip.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_aarch64-apple-darwin.app.zip.sha256) | 119 B | `native/darwin/arm64` |
-| [FluentCI-Studio_v0.17.1_aarch64-apple-darwin.dmg](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_aarch64-apple-darwin.dmg) | 28.9 MiB | `native/darwin/arm64` |
-| [FluentCI-Studio_v0.17.1_aarch64-apple-darwin.dmg.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_aarch64-apple-darwin.dmg.sha256) | 115 B | `native/darwin/arm64` |
-| [FluentCI-Studio_v0.17.1_x86_64-apple-darwin.app.zip](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_x86_64-apple-darwin.app.zip) | 28.0 MiB | `native/darwin/x64` |
-| [FluentCI-Studio_v0.17.1_x86_64-apple-darwin.app.zip.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_x86_64-apple-darwin.app.zip.sha256) | 118 B | `native/darwin/x64` |
-| [FluentCI-Studio_v0.17.1_x86_64-apple-darwin.dmg](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_x86_64-apple-darwin.dmg) | 31.7 MiB | `native/darwin/x64` |
-| [FluentCI-Studio_v0.17.1_x86_64-apple-darwin.dmg.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/FluentCI-Studio_v0.17.1_x86_64-apple-darwin.dmg.sha256) | 114 B | `native/darwin/x64` |
-| [fluentci_0.17.1_amd64.deb](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_0.17.1_amd64.deb) | 17.9 MiB | `runtime/deb/amd64` |
-| [fluentci_0.17.1_amd64.deb.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_0.17.1_amd64.deb.sha256) | 92 B | `other` |
-| [fluentci_0.17.1_arm64.deb](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_0.17.1_arm64.deb) | 16.6 MiB | `runtime/deb/arm64` |
-| [fluentci_0.17.1_arm64.deb.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_0.17.1_arm64.deb.sha256) | 92 B | `other` |
-| [fluentci_v0.17.1_aarch64-apple-darwin.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_aarch64-apple-darwin.tar.gz) | 23.6 MiB | `native/darwin/arm64` |
-| [fluentci_v0.17.1_aarch64-apple-darwin.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_aarch64-apple-darwin.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
-| [fluentci_v0.17.1_aarch64-unknown-linux-gnu.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_aarch64-unknown-linux-gnu.tar.gz) | 24.4 MiB | `native/linux/arm64/glibc` |
-| [fluentci_v0.17.1_aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_aarch64-unknown-linux-gnu.tar.gz.sha256) | 116 B | `native/linux/arm64/glibc` |
-| [fluentci_v0.17.1_x86_64-apple-darwin.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-apple-darwin.tar.gz) | 25.5 MiB | `native/darwin/x64` |
-| [fluentci_v0.17.1_x86_64-apple-darwin.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-apple-darwin.tar.gz.sha256) | 110 B | `native/darwin/x64` |
-| [fluentci_v0.17.1_x86_64-unknown-freebsd.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-freebsd.tar.gz) | 26.2 MiB | `native/linux/x64` |
-| [fluentci_v0.17.1_x86_64-unknown-freebsd.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-freebsd.tar.gz.sha256) | 113 B | `other` |
-| [fluentci_v0.17.1_x86_64-unknown-linux-gnu.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-linux-gnu.tar.gz) | 26.4 MiB | `native/linux/x64/glibc` |
-| [fluentci_v0.17.1_x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-linux-gnu.tar.gz.sha256) | 115 B | `native/linux/x64/glibc` |
-| [fluentci_v0.17.1_x86_64-unknown-netbsd.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-netbsd.tar.gz) | 26.4 MiB | `native/linux/x64` |
-| [fluentci_v0.17.1_x86_64-unknown-netbsd.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-netbsd.tar.gz.sha256) | 112 B | `other` |
-| [fluentci_v0.17.1_x86_64-unknown-openbsd.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-openbsd.tar.gz) | 26.3 MiB | `native/linux/x64` |
-| [fluentci_v0.17.1_x86_64-unknown-openbsd.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.1/fluentci_v0.17.1_x86_64-unknown-openbsd.tar.gz.sha256) | 113 B | `other` |
+| [fluentci-0.17.2-1.aarch64.rpm](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci-0.17.2-1.aarch64.rpm) | 27.5 MiB | `runtime/rpm/aarch64` |
+| [fluentci-0.17.2-1.aarch64.rpm.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci-0.17.2-1.aarch64.rpm.sha256) | 96 B | `other` |
+| [fluentci-0.17.2-1.x86_64.rpm](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci-0.17.2-1.x86_64.rpm) | 29.7 MiB | `runtime/rpm/x86_64` |
+| [fluentci-0.17.2-1.x86_64.rpm.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci-0.17.2-1.x86_64.rpm.sha256) | 95 B | `other` |
+| [FluentCI-Studio_v0.17.2_aarch64-apple-darwin.app.zip](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_aarch64-apple-darwin.app.zip) | 28.6 MiB | `native/darwin/arm64` |
+| [FluentCI-Studio_v0.17.2_aarch64-apple-darwin.app.zip.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_aarch64-apple-darwin.app.zip.sha256) | 119 B | `native/darwin/arm64` |
+| [FluentCI-Studio_v0.17.2_aarch64-apple-darwin.dmg](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_aarch64-apple-darwin.dmg) | 32.2 MiB | `native/darwin/arm64` |
+| [FluentCI-Studio_v0.17.2_aarch64-apple-darwin.dmg.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_aarch64-apple-darwin.dmg.sha256) | 115 B | `native/darwin/arm64` |
+| [FluentCI-Studio_v0.17.2_x86_64-apple-darwin.app.zip](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_x86_64-apple-darwin.app.zip) | 31.1 MiB | `native/darwin/x64` |
+| [FluentCI-Studio_v0.17.2_x86_64-apple-darwin.app.zip.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_x86_64-apple-darwin.app.zip.sha256) | 118 B | `native/darwin/x64` |
+| [FluentCI-Studio_v0.17.2_x86_64-apple-darwin.dmg](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_x86_64-apple-darwin.dmg) | 35.2 MiB | `native/darwin/x64` |
+| [FluentCI-Studio_v0.17.2_x86_64-apple-darwin.dmg.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/FluentCI-Studio_v0.17.2_x86_64-apple-darwin.dmg.sha256) | 114 B | `native/darwin/x64` |
+| [fluentci_0.17.2_amd64.deb](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_0.17.2_amd64.deb) | 20.1 MiB | `runtime/deb/amd64` |
+| [fluentci_0.17.2_amd64.deb.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_0.17.2_amd64.deb.sha256) | 92 B | `other` |
+| [fluentci_0.17.2_arm64.deb](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_0.17.2_arm64.deb) | 18.7 MiB | `runtime/deb/arm64` |
+| [fluentci_0.17.2_arm64.deb.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_0.17.2_arm64.deb.sha256) | 92 B | `other` |
+| [fluentci_v0.17.2_aarch64-apple-darwin.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_aarch64-apple-darwin.tar.gz) | 26.7 MiB | `native/darwin/arm64` |
+| [fluentci_v0.17.2_aarch64-apple-darwin.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_aarch64-apple-darwin.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
+| [fluentci_v0.17.2_aarch64-unknown-linux-gnu.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_aarch64-unknown-linux-gnu.tar.gz) | 27.6 MiB | `native/linux/arm64/glibc` |
+| [fluentci_v0.17.2_aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_aarch64-unknown-linux-gnu.tar.gz.sha256) | 116 B | `native/linux/arm64/glibc` |
+| [fluentci_v0.17.2_x86_64-apple-darwin.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-apple-darwin.tar.gz) | 28.9 MiB | `native/darwin/x64` |
+| [fluentci_v0.17.2_x86_64-apple-darwin.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-apple-darwin.tar.gz.sha256) | 110 B | `native/darwin/x64` |
+| [fluentci_v0.17.2_x86_64-unknown-freebsd.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-freebsd.tar.gz) | 29.7 MiB | `native/linux/x64` |
+| [fluentci_v0.17.2_x86_64-unknown-freebsd.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-freebsd.tar.gz.sha256) | 113 B | `other` |
+| [fluentci_v0.17.2_x86_64-unknown-linux-gnu.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-linux-gnu.tar.gz) | 29.9 MiB | `native/linux/x64/glibc` |
+| [fluentci_v0.17.2_x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-linux-gnu.tar.gz.sha256) | 115 B | `native/linux/x64/glibc` |
+| [fluentci_v0.17.2_x86_64-unknown-netbsd.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-netbsd.tar.gz) | 30.0 MiB | `native/linux/x64` |
+| [fluentci_v0.17.2_x86_64-unknown-netbsd.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-netbsd.tar.gz.sha256) | 112 B | `other` |
+| [fluentci_v0.17.2_x86_64-unknown-openbsd.tar.gz](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-openbsd.tar.gz) | 30.2 MiB | `native/linux/x64` |
+| [fluentci_v0.17.2_x86_64-unknown-openbsd.tar.gz.sha256](https://github.com/fluentci-io/fluentci/releases/download/v0.17.2/fluentci_v0.17.2_x86_64-unknown-openbsd.tar.gz.sha256) | 113 B | `other` |
 
 ## Improve this data
 
@@ -99,4 +99,4 @@ Install metadata for fluentci lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:53:37Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:58:49Z._

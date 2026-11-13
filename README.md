@@ -14,15 +14,15 @@ x install fluentci
 
 ## Code insight
 
-Total: **206,442** lines of code across **978** files in the top 5 languages.
+Total: **211,023** lines of code across **1114** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 152,749 | 8,953 | 17,114 | 777 |
-| Json | 19,969 | 0 | 2 | 51 |
-| Tsx | 9,617 | 10 | 154 | 82 |
-| JavaScript | 7,548 | 207 | 271 | 66 |
-| Nix | 4,862 | 6 | 3 | 2 |
+| Json | 20,148 | 0 | 2 | 55 |
+| Tsx | 11,222 | 11 | 167 | 112 |
+| JavaScript | 7,967 | 207 | 282 | 66 |
+| TypeScript | 5,959 | 35 | 167 | 104 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **206,442** lines of code across **978** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.17.3` (2026-11-08)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-13
 - **Assets in release**: 30
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **206,442** lines of code across **978** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 70 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 717
+- **Releases**: 77 · **Merged PRs**: 70 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 1 · **Commits**: 730
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 4 | 0 | 0 | 0 | 187 |
-| last60d | 2026-09-13 | 4 | 4 | 0 | 0 | 0 | 187 |
-| 90d | 2026-08-14 | 4 | 4 | 0 | 0 | 0 | 187 |
-| last180d | 2026-05-16 | 4 | 4 | 0 | 0 | 0 | 187 |
-| 360d | 2025-11-17 | 4 | 4 | 0 | 0 | 0 | 187 |
-| last720d | 2024-11-22 | 7 | 4 | 0 | 2 | 0 | 215 |
+| 30d | 2026-10-14 | 4 | 4 | 0 | 0 | 0 | 200 |
+| last60d | 2026-09-14 | 4 | 4 | 0 | 0 | 0 | 200 |
+| 90d | 2026-08-15 | 4 | 4 | 0 | 0 | 0 | 200 |
+| last180d | 2026-05-17 | 4 | 4 | 0 | 0 | 0 | 200 |
+| 360d | 2025-11-18 | 4 | 4 | 0 | 0 | 0 | 200 |
+| last720d | 2024-11-23 | 7 | 4 | 0 | 2 | 0 | 228 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for fluentci lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:39:28Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:48:40Z._

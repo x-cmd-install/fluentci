@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 27821442,
       "digest": "sha256:aa9924310e5adce89a8f635695f2159128bb25c0f0e905467bca9add45f55d37",
-      "download_count": 102,
+      "download_count": 107,
       "created_at": "2026-11-17T22:19:23Z",
       "updated_at": "2026-11-17T22:19:24Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_aarch64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:04304ef34af3918177f2632343180322f55cf4116f115d926df37f7a3aae0795",
-      "download_count": 96,
+      "download_count": 101,
       "created_at": "2026-11-17T22:19:23Z",
       "updated_at": "2026-11-17T22:19:23Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_aarch64-apple-darwin.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 28731583,
       "digest": "sha256:2c7ce904330202b607d8eba8cc9671ca5b9563e3dd5c6712ed9ac6e49ce4f9cb",
-      "download_count": 134,
+      "download_count": 139,
       "created_at": "2026-11-17T22:10:29Z",
       "updated_at": "2026-11-17T22:10:32Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_aarch64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:270e6994ddba8f0d18a8bec87e3dbee83d95ff1ccd663624f9e852cb3554ac3a",
-      "download_count": 132,
+      "download_count": 137,
       "created_at": "2026-11-17T22:10:29Z",
       "updated_at": "2026-11-17T22:10:29Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 31141078,
       "digest": "sha256:d9827ac3d0d8e4e868b206c37cd621a424e1fb3812fba46c4cdc9344b0d7c322",
-      "download_count": 653,
+      "download_count": 895,
       "created_at": "2026-11-17T22:07:39Z",
       "updated_at": "2026-11-17T22:07:40Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_x86_64-unknown-linux-gnu.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:fe67167ca86f9dca2d18a8434e3a47972ead757e225d002215f60507e3d22afa",
-      "download_count": 649,
+      "download_count": 890,
       "created_at": "2026-11-17T22:07:39Z",
       "updated_at": "2026-11-17T22:07:39Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 31424724,
       "digest": "sha256:6142de8a60e0814cafc85ea410c5292a9dc4ec9e5795759bcdff7cee0e8b7dce",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-17T22:07:49Z",
       "updated_at": "2026-11-17T22:07:51Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.8/fluentci_v0.17.8_x86_64-unknown-linux-musl.tar.gz"

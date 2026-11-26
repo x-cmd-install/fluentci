@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 28099924,
       "digest": "sha256:683153b85cd66603092c9874dc8ef37ba6614073236b919bd62bb3247523eeaa",
-      "download_count": 61,
+      "download_count": 73,
       "created_at": "2026-11-23T06:47:38Z",
       "updated_at": "2026-11-23T06:47:40Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_aarch64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:1b279ed2f18e41954ac257a2b980c3c96501bf9d2c20b6f2d7b4ee24ee9e95a2",
-      "download_count": 59,
+      "download_count": 69,
       "created_at": "2026-11-23T06:47:38Z",
       "updated_at": "2026-11-23T06:47:38Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_aarch64-apple-darwin.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 29020577,
       "digest": "sha256:c5c6571565cf7c0ec604bf68e96be696ef8018baf3edc01a19a40aaa0f2cc552",
-      "download_count": 55,
+      "download_count": 66,
       "created_at": "2026-11-23T06:42:43Z",
       "updated_at": "2026-11-23T06:42:45Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_aarch64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:a946776722ebae0fe453b655446a07d8ac164716ef5ce5a3fff2d1b92b67ade4",
-      "download_count": 56,
+      "download_count": 66,
       "created_at": "2026-11-23T06:42:43Z",
       "updated_at": "2026-11-23T06:42:43Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 30335469,
       "digest": "sha256:078758eb9b5cce5e4138975b876bd13541fd8f52d582d62b36da2cbce7c5b70c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T06:44:29Z",
       "updated_at": "2026-11-23T06:44:30Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-apple-darwin.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:7af1d7feb4544a00881318edf0185ba78448979859329465c035c37b7c672555",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T06:44:29Z",
       "updated_at": "2026-11-23T06:44:29Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-apple-darwin.tar.gz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 31438038,
       "digest": "sha256:b1c499c2c787ed653efe1c8a483257c349b4824758c439f9a8439b989402b6f7",
-      "download_count": 420,
+      "download_count": 496,
       "created_at": "2026-11-23T06:48:08Z",
       "updated_at": "2026-11-23T06:48:10Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-unknown-linux-gnu.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:ac248da83212d46f44069d9144fd85dc36b3111d233da5857ebbd85ff7eaa75c",
-      "download_count": 421,
+      "download_count": 496,
       "created_at": "2026-11-23T06:48:08Z",
       "updated_at": "2026-11-23T06:48:09Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 31722935,
       "digest": "sha256:59f102e46a13f816061d2db152af1f041084f1112f48726895b5bb50b4bb9abc",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T06:41:17Z",
       "updated_at": "2026-11-23T06:41:18Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-unknown-linux-musl.tar.gz"

@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 31438038,
       "digest": "sha256:b1c499c2c787ed653efe1c8a483257c349b4824758c439f9a8439b989402b6f7",
-      "download_count": 510,
+      "download_count": 512,
       "created_at": "2026-11-23T06:48:08Z",
       "updated_at": "2026-11-23T06:48:10Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-unknown-linux-gnu.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:ac248da83212d46f44069d9144fd85dc36b3111d233da5857ebbd85ff7eaa75c",
-      "download_count": 510,
+      "download_count": 512,
       "created_at": "2026-11-23T06:48:08Z",
       "updated_at": "2026-11-23T06:48:09Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 31722935,
       "digest": "sha256:59f102e46a13f816061d2db152af1f041084f1112f48726895b5bb50b4bb9abc",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-23T06:41:17Z",
       "updated_at": "2026-11-23T06:41:18Z",
       "browser_download_url": "https://github.com/fluentci-io/fluentci/releases/download/v0.17.9/fluentci_v0.17.9_x86_64-unknown-linux-musl.tar.gz"
